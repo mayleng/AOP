@@ -1,0 +1,6 @@
+C:\Users\bonree\Desktop\webapi\netframework\Aop\AopWebservice\WebserviceServer\bin\WebserviceServer.dll.config
+C:\Users\bonree\Desktop\webapi\netframework\Aop\AopWebservice\WebserviceServer\bin\WebserviceServer.dll
+C:\Users\bonree\Desktop\webapi\netframework\Aop\AopWebservice\WebserviceServer\bin\WebserviceServer.pdb
+C:\Users\bonree\Desktop\webapi\netframework\Aop\AopWebservice\WebserviceServer\obj\Debug\WebserviceServer.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netframework\Aop\AopWebservice\WebserviceServer\obj\Debug\WebserviceServer.dll
+C:\Users\bonree\Desktop\webapi\netframework\Aop\AopWebservice\WebserviceServer\obj\Debug\WebserviceServer.pdb

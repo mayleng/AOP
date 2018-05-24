@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net" xmlns:aop="http://www.springframework.net/aop">
+
+  <!-- 任务 -->
+  <object id="quest" type="AopDemo.HolyGrailQuest" singleton="true"></object>
+
+  <!-- 骑士 -->
+  <object id="knight" type="AopDemo.KnightOfTheRoundTable" dependency-check="all">
+    <property name="Quest" ref="quest"></property>
+    <property name="Name" value="Smith"></property>
+  </object>
+
+  <!--诗人-->
+  <object id="minstrel" type="AopDemo.Minstrel"/>
+
+  <!--通知-->
+
+  <!-- 环绕通知，通知的类型由定义的类型确定 -->
+  <object id="advisor" type="AopDemo.Advisor">
+    <property name="Minstrel" ref="minstrel"></property>
+  </object>
+
+  <!--定义切入点-->
+  <object id="pointcut" type="Spring.Aop.Support.SdkRegularExpressionMethodPointcut, Spring.Aop">
+    <property name="pattern" value="AopDemo.KnightOfTheRoundTable.embarkOnQuest"/>
+  </object>
+
+  <!--切面-->
+  <aop:config>
+    <aop:advisor pointcut-ref="pointcut" advice-ref="advisor"/>
+  </aop:config>
+
+</objects>

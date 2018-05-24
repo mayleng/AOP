@@ -1,0 +1,116 @@
+----------------------------------------
+Timestamp: 2018/5/22 9:25:14
+  
+Message: Enter method Work
+  
+Category: General
+  
+Priority: -1
+  
+EventId: 1
+  
+Severity: Information
+  
+Title:
+  
+Machine: BONREE-PC
+  
+App Domain: /LM/W3SVC/2/ROOT-1-131714547126576749
+  
+ProcessId: 6836
+  
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+  
+Thread Name: 
+  
+Win32 ThreadId:10884
+  
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2018/5/22 9:25:14
+  
+Message: Exit method Work, use 00:00:00.0003657.
+  
+Category: General
+  
+Priority: -1
+  
+EventId: 1
+  
+Severity: Information
+  
+Title:
+  
+Machine: BONREE-PC
+  
+App Domain: /LM/W3SVC/2/ROOT-1-131714547126576749
+  
+ProcessId: 6836
+  
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+  
+Thread Name: 
+  
+Win32 ThreadId:10884
+  
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2018/5/22 9:25:14
+  
+Message: Enter method ToString
+  
+Category: General
+  
+Priority: -1
+  
+EventId: 1
+  
+Severity: Information
+  
+Title:
+  
+Machine: BONREE-PC
+  
+App Domain: /LM/W3SVC/2/ROOT-1-131714547126576749
+  
+ProcessId: 6836
+  
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+  
+Thread Name: 
+  
+Win32 ThreadId:10884
+  
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2018/5/22 9:25:14
+  
+Message: Exit method ToString, use 00:00:00.0001576.
+  
+Category: General
+  
+Priority: -1
+  
+EventId: 1
+  
+Severity: Information
+  
+Title:
+  
+Machine: BONREE-PC
+  
+App Domain: /LM/W3SVC/2/ROOT-1-131714547126576749
+  
+ProcessId: 6836
+  
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+  
+Thread Name: 
+  
+Win32 ThreadId:10884
+  
+Extended Properties: 
+----------------------------------------
